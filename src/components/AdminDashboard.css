@@ -1,0 +1,29 @@
+.admin-container {
+  text-align: center;
+  margin: 50px;
+}
+
+.admin-container h2 {
+  font-size: 28px;
+  color: #8e44ad;
+}
+
+.admin-container p {
+  font-size: 18px;
+  margin: 20px 0;
+  color: #7d3c98;
+}
+
+.admin-container button {
+  padding: 10px 20px;
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.admin-container button:hover {
+  background-color: #c0392b;
+}
